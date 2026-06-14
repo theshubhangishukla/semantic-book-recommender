@@ -106,7 +106,7 @@ Then open the local URL Gradio gives you in your browser.
 
 ## Dashboard Preview
 
-*Add a screenshot of your Gradio dashboard here!*
+*will add a screenshot of my Gradio dashboard here!*
 
 ---
 
