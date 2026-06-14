@@ -1,0 +1,20 @@
+# Environment variables (NEVER push API keys)
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Large data files (optional, if too big for GitHub)
+*.csv
+*.parquet
