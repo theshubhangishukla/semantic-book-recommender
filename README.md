@@ -104,13 +104,13 @@ Then open the local URL Gradio gives you in your browser.
 
 ---
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 
 *Add a screenshot of your Gradio dashboard here!*
 
 ---
 
-## 📖 What I Learned
+## What I Learned
 
 - How vector embeddings represent text as meaning, not just characters
 - The difference between keyword search and semantic search
@@ -121,6 +121,6 @@ Then open the local URL Gradio gives you in your browser.
 
 ---
 
-## 📬 Connect
+## Connect
 
 Made by [Shubhangi Shukla](https://www.linkedin.com/in/theshubhangishukla) - feel free to reach out!
